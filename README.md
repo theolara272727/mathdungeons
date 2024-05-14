@@ -1,6 +1,6 @@
 # mathdungeons
 
-Projeto de escola
+Projeto de escola elaborado durante uma Hackathon. Consiste em um aplicativo simples em Flutter com geração procedual de perguntas em cada nível.
 
 ## Getting Started
 
